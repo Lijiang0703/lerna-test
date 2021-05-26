@@ -1,0 +1,7 @@
+node_modules
+imgs
+doc.md
+doc.pdf
+
+lerna-debug.log
+package-lock.json
