@@ -1,6 +1,6 @@
 {
   "name": "@mo/test2",
-  "version": "0.0.0",
+  "version": "0.0.4-alpha.0",
   "description": "> TODO: description",
   "author": "lijiang0703 <li_jiang0703@outlook.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@mo/test1": "^0.0.0",
+    "@mo/test1": "^0.0.4-alpha.0",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
