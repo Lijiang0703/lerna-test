@@ -11,6 +11,7 @@
       "ignoreChanges": [
         ".gitignore"
       ],
+      "verifyAccess": false,
       "message": "describe your changes",
       "registry": "http://registry.npmjs.org/"
     },

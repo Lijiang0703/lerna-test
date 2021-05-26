@@ -22,5 +22,6 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.1"
-  }
+  },
+  "gitHead": "b5f8c63f691b7c53f9580925680e47caa760973c"
 }
