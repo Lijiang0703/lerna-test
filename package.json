@@ -3,5 +3,16 @@
   "private": true,
   "devDependencies": {
     "lerna": "^4.0.0"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Lijiang0703/lerna-test.git",
+  "author": "lijiang0703 <li_jiang0703@outlook.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "publishConfig": {
+    "access": "public"
   }
 }

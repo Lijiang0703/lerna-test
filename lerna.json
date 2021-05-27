@@ -1,11 +1,10 @@
 {
-  "packages": [
-    "packages/*"
-  ],
   "version": "independent",
+  "npmClient": "yarn",
+  "useWorkspaces": true,
   "command": {
     "bootstrap": {
-      "hoist": true
+
     },
     "publish": {
       "ignoreChanges": [
@@ -15,6 +14,9 @@
       "verifyAccess": false,
       "message": "describe your changes",
       "registry": "http://registry.npmjs.org/"
+    },
+    "version": {
+      "conventionalCommits": true
     },
     "ignoreChanges": [
       "**/*.md"
